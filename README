@@ -1,0 +1,7 @@
+Required Powershell Modules,
+
+Azure Active Directory PowerShell for Graph module 
+- https://docs.microsoft.com/en-us/office365/enterprise/powershell/connect-to-office-365-powershell
+
+You must also follow the steps to make sure Exchange Online will work, found here. 
+-https://docs.microsoft.com/en-us/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps
